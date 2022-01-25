@@ -1214,5 +1214,630 @@
 		"trans": ["v. 暴露，使显露；使面临，使遭受（危险或不快）；揭露，揭发；接触，体验；露出，显露（感情）；使（胶卷）曝光；当众暴露自己的性器官，露阴（expose oneself）；弃（婴孩）于户外让其死去 n. 揭露，曝光 "],
 		"usphone": "ɪkˈspoʊz",
 		"ukphone": "ɪkˈspəʊz"
+	}, {
+		"name": "difference",
+		"trans": ["n. 差异，不同之处；差额；分歧 "],
+		"usphone": "ˈdɪfrəns",
+		"ukphone": "ˈdɪfrəns"
+	}, {
+		"name": "suffer",
+		"trans": ["v. （因疾病、痛苦、悲伤等）受苦，受折磨；经受，遭受（坏事）；变差，变糟；<古>容许，允许；<古>受处决 "],
+		"usphone": "ˈsʌfər",
+		"ukphone": "ˈsʌfə(r)"
+	}, {
+		"name": "prefer",
+		"trans": ["v. 更喜爱，宁可；<法律>举报，提出（控告）；<古>提拔（某人），提升 "],
+		"usphone": "prɪˈfɜːr",
+		"ukphone": "prɪˈfɜː(r)"
+	}, {
+		"name": "differ",
+		"trans": ["v. 不同于；意见有分歧 "],
+		"usphone": "ˈdɪfər",
+		"ukphone": "ˈdɪfə(r)"
+	}, {
+		"name": "refer",
+		"trans": ["v. 提到，谈及（refer to）；描述，涉及（refer to）；查阅，参考（refer to）；将……送交给（以求获得帮助等）；让（某人）注意；<古>把……归因于；（考试中）淘汰（应试者） "],
+		"usphone": "rɪˈfɜːr",
+		"ukphone": "rɪˈfɜː(r)"
+	}, {
+		"name": "transfer",
+		"trans": ["v. （使）转移，搬迁；转移（感情），传染（疾病），转让（权力等）；（使）调动，转职；转会，使转会（尤指职业足球队）；（将所得学分）转到（另一所学校）；转接（电话）；将（钱）转到（另一个账户上）；转让（财产，权利），移交（责任）；转用；转存，转录（资料、音乐等），改编；（旅途中）转乘，换乘；转印（图画，图案）；（通过延伸、隐喻）转变（词义，短语义） n. 转移，转让，调动；（运动员）转会；转换，过渡；已调动的人，已转移的东西；（旅行中）转乘，转搭；<美>转车票，换乘票；纸上可转印的图画或图案；迁移（将已习得的行为在新的情况下应用） "],
+		"usphone": "trænsˈfɜːr",
+		"ukphone": "trænsˈfɜː(r)"
+	}, {
+		"name": "current",
+		"trans": ["adj. 现行的，当前的；通用的，流行的；最近的 n. 水流，气流；电流；思潮，趋势 "],
+		"usphone": "ˈkɜːrənt",
+		"ukphone": "ˈkʌrənt"
+	}, {
+		"name": "curiosity",
+		"trans": ["n. 好奇心，求知欲；珍品，奇事 "],
+		"usphone": "ˌkjʊriˈɑːsəti",
+		"ukphone": "ˌkjʊəriˈɒsəti"
+	}, {
+		"name": "occur",
+		"trans": ["v. （尤指意外地）发生；存在，出现；（想法）产生 "],
+		"usphone": "əˈkɜːr",
+		"ukphone": "əˈkɜː(r)"
+	}, {
+		"name": "curriculum",
+		"trans": ["n. 课程 "],
+		"usphone": "kəˈrɪkjələm",
+		"ukphone": "kəˈrɪkjələm"
+	}, {
+		"name": "weight",
+		"trans": ["n. 重量，分量，体重；重；杠铃，哑铃；砝码，秤砣，秤锤；（用于固定某物或用作机器部件的）重体，重物；重量单位，衡量制；重担，负担；影响力，重要性；（尤指举起或运载的）重物；大量的某物；（机械中用于推动或平衡的）平衡块；投掷器械（包括铁饼、铅球、链球等）；（布料）表面密度；重心；（引力场作用于物体上的）重力；权，权重，权数 v. 加重量于，使变重；（经改动）使倾向于……；视……为重要（或有价值），重视；权衡……的价值，加权重于；加重压于（马）上；对（织物）作加重处理（使织物感觉更厚更重） "],
+		"usphone": "weɪt",
+		"ukphone": "weɪt"
+	}, {
+		"name": "strength",
+		"trans": ["n. 体力，力量；实力，影响力；长处，优势；意志力，毅力；（情感或意见的）强烈程度；（物体或物质的）强度；（食物、药等的）浓度，（酒的）烈度；（风等的）速度，力度；人数，人力；（货币的）价值，坚挺程度；球队的板凳深度，替补队员的水平；<文>力量源泉；（手中所持好牌数目和花色的）牌力 "],
+		"usphone": "streŋkθ",
+		"ukphone": "streŋkθ"
+	}, {
+		"name": "depth",
+		"trans": ["n. 深度，纵深；深刻，深奥；深厚，深切；（声音的）低沉；浓度，强度；严重性，严峻性；渊博，老练；纵深感，景深；最深处，极限；低迷状态，非常糟糕的状态 "],
+		"usphone": "depθ",
+		"ukphone": "depθ"
+	}, {
+		"name": "management",
+		"trans": ["n. 经营，管理，安排；管理人员，管理层；（成功的）处理手段，（有效的）处理能力；治疗，监控；<古>欺骗，欺诈 "],
+		"usphone": "ˈmænɪdʒmənt",
+		"ukphone": "ˈmænɪdʒmənt"
+	}, {
+		"name": "manager",
+		"trans": ["n. （公司、部门等的）经理；（艺人或运动员的）经纪人；（运动队的）管理人，主教练；管理某物的人；（计算机）管理程序 "],
+		"usphone": "ˈmænɪdʒər",
+		"ukphone": "ˈmænɪdʒə(r)"
+	}, {
+		"name": "permanent",
+		"trans": ["adj. 永久的，永恒的；（尤指问题或困难）不断出现的，一直存在的；（员工）终生的，长期的；（家庭住址）固定的 n. <美>烫发 "],
+		"usphone": "ˈpɜːrmənənt",
+		"ukphone": "ˈpɜːmənənt"
+	}, {
+		"name": "manage",
+		"trans": ["v. 管理，处理；操纵，控制；设法做到，勉力完成；腾出时间参加；凑合着活下去，支撑；调教（人或动物）；竟搞得，竟做出 "],
+		"usphone": "ˈmænɪdʒ",
+		"ukphone": "ˈmænɪdʒ"
+	}, {
+		"name": "maintain",
+		"trans": ["v. 保持，维持；维修，保养；断言，主张；赡养，抚养；<旧>支持，维护 "],
+		"usphone": "meɪnˈteɪn",
+		"ukphone": "meɪnˈteɪn"
+	}, {
+		"name": "message",
+		"trans": ["n. 口信，消息；（书籍、演讲等的）要旨，主题思想；（从大脑发给身体某部位或身体某部位向大脑发送的）信息；购物；<美>电视广告；<英>差使；启示，教训；（先知的）预言 v. （尤指以电子形式）传送（信息）；通报 "],
+		"usphone": "ˈmesɪdʒ",
+		"ukphone": "ˈmesɪdʒ"
+	}, {
+		"name": "advantage",
+		"trans": ["n. 有利条件，优势；优点；利益；（局末平分后）占先，优势分 v. 有利于，有助于 "],
+		"usphone": "ədˈvæntɪdʒ",
+		"ukphone": "ədˈvɑːntɪdʒ"
+	}, {
+		"name": "damage",
+		"trans": ["n. （有形的）损坏，损失；损害，伤害；损害赔偿金；费用，代价 v. 损坏，损害；对……造成坏影响 "],
+		"usphone": "ˈdæmɪdʒ",
+		"ukphone": "ˈdæmɪdʒ"
+	}, {
+		"name": "shortage",
+		"trans": ["n. 短缺，不足 "],
+		"usphone": "ˈʃɔːrtɪdʒ",
+		"ukphone": "ˈʃɔːtɪdʒ"
+	}, {
+		"name": "percentage",
+		"trans": ["n. 百分比，百分率；部分，比例；利润分成，提成；<非正式>利益，好处 "],
+		"usphone": "pərˈsentɪdʒ",
+		"ukphone": "pəˈsentɪdʒ"
+	}, {
+		"name": "heritage",
+		"trans": ["n. 遗产，传统，世袭财产；<美>（植物种类）纯种的，老品种的；<古>特殊（或个人）的所有物，（该有的）一份；<古>上帝选择的人（以色列人或基督教教会） "],
+		"usphone": "ˈherɪtɪdʒ",
+		"ukphone": "ˈherɪtɪdʒ"
+	}, {
+		"name": "code",
+		"trans": ["n. 密码，暗码；（邮政）编码，（电话）区号；（计算机）编码；道德准则，行为规范；法典，法规 v. 把……编码（或编号）；把……译成密码；（给计算机）编写指令 "],
+		"usphone": "koʊd",
+		"ukphone": "kəʊd"
+	}, {
+		"name": "investment",
+		"trans": ["n. 投资；值得买的东西；（时间、精力的）投入；<旧>包围，封锁 "],
+		"usphone": "ɪnˈvestmənt",
+		"ukphone": "ɪnˈvestmənt"
+	}, {
+		"name": "invest",
+		"trans": ["v. 投资；投入（时间或精力）；赋予，授予；<旧>给……穿衣；<旧>包围，围攻 "],
+		"usphone": "ɪnˈvest",
+		"ukphone": "ɪnˈvest"
+	}, {
+		"name": "bacteria",
+		"trans": ["n. 细菌（bacterium的复数） "],
+		"usphone": "bækˈtɪriə",
+		"ukphone": "bækˈtɪəriə"
+	}, {
+		"name": "couple",
+		"trans": ["n. 两个，几个；一对夫妇，一对情侣 v. 加上，结合；（把设备等）连接；形成一双，配成一对；<旧>交配，交媾；（用电磁感应，静电荷或光学通信线路）将（电路元件）耦合 "],
+		"usphone": "ˈkʌpl",
+		"ukphone": "ˈkʌp(ə)l"
+	}, {
+		"name": "various",
+		"trans": ["adj. 各种各样的；迥异的，千差万别的 det. 不止一个的，各别的 pron. 不止一个的，各别的 "],
+		"usphone": "ˈveriəs; ˈværiəs",
+		"ukphone": "ˈveəriəs"
+	}, {
+		"name": "variety",
+		"trans": ["n.  多样化，变化；种类，品种；（人或物的）各式各样；综艺表演，杂耍表演 "],
+		"usphone": "vəˈraɪəti",
+		"ukphone": "vəˈraɪəti"
+	}, {
+		"name": "responsibility",
+		"trans": ["n. 责任，负责；（对不良事件所负的）责任；（道义上或法律规定的）责任（responsibility to/towards）；职责，任务；重任，职权 "],
+		"usphone": "rɪˌspɑːnsəˈbɪləti",
+		"ukphone": "rɪˌspɒnsəˈbɪləti"
+	}, {
+		"name": "response",
+		"trans": ["n. 反应，响应；（口头或书面的）回复，答复；（考试题的）答案；（教堂中人们对牧师所说的话作出的）唱和，应答 "],
+		"usphone": "rɪˈspɑːns",
+		"ukphone": "rɪˈspɒns"
+	}, {
+		"name": "responsible",
+		"trans": ["adj. （对某人、某事）负责的；（对事故、错误、罪行等）负有责任的，应承担责任的；（工作或职位）重要的，责任重大的；可靠的，负责任的；作为缘由的，应受归咎的；向......负责的，向......汇报的 "],
+		"usphone": "rɪˈspɑːnsəbl",
+		"ukphone": "rɪˈspɒnsəb(ə)l"
+	}, {
+		"name": "spouse",
+		"trans": ["n. 配偶 v. 和……结婚 "],
+		"usphone": "spaʊsˌspaʊz",
+		"ukphone": "spaʊs"
+	}, {
+		"name": "display",
+		"trans": ["v. 展示，陈列；显露，表现；（计算机）显示；（为求偶）作炫耀行为 n. 展览，陈列；表演；（计算机屏幕上的）显示，显示器；流露，表现；炫耀行为 "],
+		"usphone": "dɪˈspleɪ",
+		"ukphone": "dɪˈspleɪ"
+	}, {
+		"name": "disaster",
+		"trans": ["n. 灾难，灾害；祸患，灾难性事物；彻底的失败 "],
+		"usphone": "dɪˈzæstər",
+		"ukphone": "dɪˈzɑːstə(r)"
+	}, {
+		"name": "disability",
+		"trans": ["n. 残疾，缺陷；无能力，障碍；残疾补贴 "],
+		"usphone": "ˌdɪsəˈbɪləti",
+		"ukphone": "ˌdɪsəˈbɪləti"
+	}, {
+		"name": "engage",
+		"trans": ["v. 雇用，聘请；参加，从事；吸引，引起；与……交战，开战；（使）（机器）啮合，接合；<旧>预定（膳食，地方等）；适应，与……有密切关系；允诺，签约保证；（运动员或击剑手）使（兵器）交结在一起；占用 "],
+		"usphone": "ɪnˈɡeɪdʒ",
+		"ukphone": "ɪnˈɡeɪdʒ"
+	}, {
+		"name": "enable",
+		"trans": ["v. 使能够，使可能；激活，启动；准许，授权 "],
+		"usphone": "ɪˈneɪbl",
+		"ukphone": "ɪˈneɪbl"
+	}, {
+		"name": "enhance",
+		"trans": ["v. 增强，提高，改善 "],
+		"usphone": "ɪnˈhæns",
+		"ukphone": "ɪnˈhɑːns"
+	}, {
+		"name": "entire",
+		"trans": ["adj. 全部的，整个的；完全的，绝对的；（公马）未经阉割的；（叶子）全缘的，边缘光滑的 n. 未经阉割的公马，种马 "],
+		"usphone": "ɪnˈtaɪər",
+		"ukphone": "ɪnˈtaɪə(r)"
+	}, {
+		"name": "organization",
+		"trans": ["n. 组织，机构；组织工作，筹备工作；编排，配置，结构；条理，逻辑性 "],
+		"usphone": "ˌɔːrɡənəˈzeɪʃn",
+		"ukphone": "ˌɔːɡənaɪˈzeɪʃn"
+	}, {
+		"name": "organize",
+		"trans": ["v. 组织，筹备；设法提供；（按某一体系）整理，安排；规划，照料；聚集，召集；（为特定人群）建立组织；<古>形成有机体 "],
+		"usphone": "ˈɔːrɡənaɪz",
+		"ukphone": "ˈɔːɡənaɪz"
+	}, {
+		"name": "generation",
+		"trans": ["n. 一代（人）；一代人的时间；（产品发展的）代；产生 "],
+		"usphone": "ˌdʒenəˈreɪʃn",
+		"ukphone": "ˌdʒenəˈreɪʃn"
+	}, {
+		"name": "generate",
+		"trans": ["v. 产生，引起 "],
+		"usphone": "ˈdʒenəreɪt",
+		"ukphone": "ˈdʒenəreɪt"
+	}, {
+		"name": "gender",
+		"trans": ["n. 性别；（语法中的）性；（总称）男性，女性 "],
+		"usphone": "ˈdʒendər",
+		"ukphone": "ˈdʒendə(r)"
+	}, {
+		"name": "involve",
+		"trans": ["v. 牵涉，涉及；包含，需要；使陷入，使卷入；（使）参加，加入；使承担，使面对 "],
+		"usphone": "ɪnˈvɑːlv",
+		"ukphone": "ɪnˈvɒlv"
+	}, {
+		"name": "evolve",
+		"trans": ["v. 进化，演化；逐步发展，逐渐演变 "],
+		"usphone": "ɪˈvɑːlv",
+		"ukphone": "ɪˈvɒlv"
+	}, {
+		"name": "credit",
+		"trans": ["n. 信用，信贷，赊购；赞扬，信誉，声望；存款金额，余额；补助；退税，抵免；学分；带来荣耀的人（或事）；作品（指影片、电视节目、戏剧等）；信任，相信 v. 把（钱）记入总账，把钱存入（账户）；相信，信任；认为是……的功劳，给予承认；认为……有特定品质（或效果） "],
+		"usphone": "ˈkredɪt",
+		"ukphone": "ˈkredɪt"
+	}, {
+		"name": "criticism",
+		"trans": ["n. 批评，批判；意见；评论，评价；（对文学作品和历史文献的）考证 "],
+		"usphone": "ˈkrɪtɪsɪzəm",
+		"ukphone": "ˈkrɪtɪsɪzəm"
+	}, {
+		"name": "critic",
+		"trans": ["n. 批评家，评论员；批评者，反对……的人 "],
+		"usphone": "ˈkrɪtɪk",
+		"ukphone": "ˈkrɪtɪk"
+	}, {
+		"name": "critical",
+		"trans": ["adj. 批判的，爱挑剔的；极其重要的，关键的；严重的，危急的；病重的，重伤的；评论性的，评论家的；临界的 "],
+		"usphone": "ˈkrɪtɪkl",
+		"ukphone": "ˈkrɪtɪk(ə)l"
+	}, {
+		"name": "criticize",
+		"trans": ["v. 批评，指责；评论 "],
+		"usphone": "ˈkrɪtɪsaɪz",
+		"ukphone": "ˈkrɪtɪsaɪz"
+	}, {
+		"name": "crisis",
+		"trans": ["n. 危机，紧要关头；决定性时刻，关键时刻；（病情的）转折点，危象 adj. 用于处理危机的 "],
+		"usphone": "ˈkraɪsɪs",
+		"ukphone": "ˈkraɪsɪs"
+	}, {
+		"name": "academic",
+		"trans": ["adj. 学业的，学术的；学校的，学院的；学业（成绩）优秀的，善于学习的；不切实际的，空谈的 n. 大学教师，学者；（学校或学院的）课程；大学生 "],
+		"usphone": "ˌækəˈdemɪk",
+		"ukphone": "ˌækəˈdemɪk"
+	}, {
+		"name": "optimistic",
+		"trans": ["adj. 乐观的，乐观主义的；（估计）过于乐观的，高估的 "],
+		"usphone": "ˌɑːptɪˈmɪstɪk",
+		"ukphone": "ˌɒptɪˈmɪstɪk"
+	}, {
+		"name": "technological",
+		"trans": ["adj. 技术的，科技的，工艺的 "],
+		"usphone": "ˌteknəˈlɑːdʒɪkl",
+		"ukphone": "ˌteknəˈlɒdʒɪk(ə)l"
+	}, {
+		"name": "practical",
+		"trans": ["adj. 真实的，实际的；（计划、方法等）切实有效的，切实可行的；（人）明智的，务实的；合适的，适用的；心灵手巧的，善于制作（或修补）的；几乎完全的，实际上的 n. <英>（科学、烹饪等的）实践课，实用知识考试 "],
+		"usphone": "ˈpræktɪkl",
+		"ukphone": "ˈpræktɪkl"
+	}, {
+		"name": "political",
+		"trans": ["adj. 政治（上）的，政府的；政党的，党派的；对政治感兴趣的，参与政治的；反政府的；（组织内部人际间）牵涉权力关系的，争权夺利的 "],
+		"usphone": "pəˈlɪtɪkl",
+		"ukphone": "pəˈlɪtɪk(ə)l"
+	}, {
+		"name": "chemical",
+		"trans": ["adj. 化学的，与化学有关的 n. 化学品，化学制品；成瘾的药物 "],
+		"usphone": "ˈkemɪkl",
+		"ukphone": "ˈkemɪkl"
+	}, {
+		"name": "particularly",
+		"trans": ["adv. 非常，尤其；特别是；清楚地，明确地 "],
+		"usphone": "pərˈtɪkjələrli",
+		"ukphone": "pəˈtɪkjələli"
+	}, {
+		"name": "particular",
+		"trans": ["adj. 特定的，某一的；格外的，特别的；讲究的，挑剔的；特殊的，独特的；详细的，详尽的 n. 一点，一个细节； 详细资料，详情（particulars）；（哲学）（与普遍性相对的）特殊性 "],
+		"usphone": "pərˈtɪkjələr",
+		"ukphone": "pəˈtɪkjələ(r)"
+	}, {
+		"name": "counterpart",
+		"trans": ["n. 对应的人（或事物）；（法律文件的）副本 "],
+		"usphone": "ˈkaʊntərpɑːrt",
+		"ukphone": "ˈkaʊntəpɑːt"
+	}, {
+		"name": "executive",
+		"trans": ["adj. 行政的，有执行权的；高档的，豪华的；供主管人员使用的；（有关）经营管理的，领导的 n. 主管，经理；行政部门，执行委员会 "],
+		"usphone": "ɪɡˈzekjətɪv",
+		"ukphone": "ɪɡˈzekjətɪv"
+	}, {
+		"name": "positive",
+		"trans": ["adj. 乐观的，有信心的；积极的，建设性的；赞成的，支持的；确信的，肯定的；<非正式>完全的，绝对的；证据确凿的，明确的；阳性的；良好的，有助益的；正数的，大于零的；正电的，正极的；（摄影）正片的，正像的；赢利的；（语法）（形容词，副词）原级的；（主哲）实证的，实在的；（占星）（风宫，火宫）积极的 n. 优势，优点；正片；阳性结果；正数；（语法）原级形容词，原级副词 "],
+		"usphone": "ˈpɑːzətɪv",
+		"ukphone": "ˈpɒzətɪv"
+	}, {
+		"name": "relative",
+		"trans": ["n. 亲戚，亲属；同类事物，亲缘动物（或植物）；（语法）关系代词，关系限定词，关系副词；（哲学）关系项；相关物 adj. 相比较而言的，比较的；相对的，相关联的；（语法）（代词、限定词或副词）关系的，（从句）由关系词引导的；（乐）（大小调）调号相同的；（与不同军种的军阶）相应（或对应）的；<正式> 关于（或涉及到）......的；相比之下存在（或有）的 "],
+		"usphone": "ˈrelətɪv",
+		"ukphone": "ˈrelətɪv"
+	}, {
+		"name": "negative",
+		"trans": ["adj. 否定的，拒绝的；有害的，不良的；悲观的，消极的；否定形式的，否定词的；（实验或测试的结果）阴性的；阴极的，负极的；负电的（电子比质子多）；负的，小于零的；<美>根本不；亏损的；（常用于军事语境）不，没有；（照片）负像的，底片的；（天文）负的；<英>（议会）（立法）自动生效的；Rh阴性的 n. 底片，负片；否定词，否定句；坏处，害处；（化验或科学试验中的）阴性结果；（语法）否定语，否定词缀；（逻）（对命题的）否定；负电；负数 v. 否绝，拒绝；否定，推翻（一种理论或说法）；消除，抵消 "],
+		"usphone": "ˈneɡətɪv",
+		"ukphone": "ˈneɡətɪv"
+	}, {
+		"name": "creative",
+		"trans": ["adj. 创造（性）的，创作的；有创造力的，有想象力的 n. 创作者；创意，创作素材 "],
+		"usphone": "kriˈeɪtɪv",
+		"ukphone": "kriˈeɪtɪv"
+	}, {
+		"name": "alternative",
+		"trans": ["n. 可供选择的事物，替代物 adj. 可替代的，备选的；非传统的，另类的；（两者）互不相容的，非此即彼的 "],
+		"usphone": "ɔːlˈtɜːrnətɪv",
+		"ukphone": "ɔːlˈtɜːnətɪv"
+	}, {
+		"name": "production",
+		"trans": ["n. （以销售为目的的）生产，制造；（对自然物的）加工，采集，生产；产量；（自然的）产生；（交通工具的）大量生产；（戏剧、电影、电视节目、唱片等的）制作；（戏剧、电影等的）上映，上演；（尤指从制作与公演等特点来看）影片，戏剧；音响效果，制作方式；<正式>出示，提供；<非正式>非常费力的事，非常复杂的事 "],
+		"usphone": "prəˈdʌkʃn",
+		"ukphone": "prəˈdʌkʃn"
+	}, {
+		"name": "productive",
+		"trans": ["adj. 多产的，丰饶的；有效益的，富有成效的；生产（成品、庄稼或财富）的，生产性的；产生……的，引起……的（productive of）；有构词能力的；（咳嗽）生痰的，分泌黏液的 "],
+		"usphone": "prəˈdʌktɪv",
+		"ukphone": "prəˈdʌktɪv"
+	}, {
+		"name": "educational",
+		"trans": ["adj. 教育的；有教育意义的 "],
+		"usphone": "ˌedʒuˈkeɪʃənl",
+		"ukphone": "ˌedʒuˈkeɪʃən(ə)l"
+	}, {
+		"name": "educator",
+		"trans": ["n. 教育工作者，教师；教育家 "],
+		"usphone": "ˈedʒukeɪtər",
+		"ukphone": "ˈedʒukeɪtə(r)"
+	}, {
+		"name": "behavior",
+		"trans": ["n. 行为，举止；态度；反应 "],
+		"usphone": "bɪˈheɪvjər",
+		"ukphone": "bɪˈheɪvjə"
+	}, {
+		"name": "range",
+		"trans": ["n. （变动或浮动的）范围，界限；视觉（或听觉）范围；射程，射击距离；一系列；成套产品，系列商品；山脉；牧场，牧区；靶场，射击场，炸弹试验场；（尤指旧时的）炉灶；一排建筑物；<古>方向，走向；（飞机等交通工具的）续航距离 v. （在一定的范围内）变化，变动；（按一定位置或顺序）排列，排序；徘徊，四处移动；（文章或讲话）涉及，包括 ；（枪、炮、射击后校准）测距，（用雷达或激光）测距；支持，反对；自然生长，分布；与……联合起来，加入……行列 adj. <文>（生活方式）有秩序的，安定的 "],
+		"usphone": "reɪndʒ",
+		"ukphone": "reɪndʒ"
+	}, {
+		"name": "compete",
+		"trans": ["v. 竞争，对抗；争夺；参加比赛 "],
+		"usphone": "kəmˈpiːt",
+		"ukphone": "kəmˈpiːt"
+	}, {
+		"name": "competition",
+		"trans": ["n. 竞争；比赛，竞赛；竞争者，对手 "],
+		"usphone": "ˌkɑːmpəˈtɪʃn",
+		"ukphone": "ˌkɒmpəˈtɪʃn"
+	}, {
+		"name": "appetite",
+		"trans": ["n. 食欲，胃口；欲望，爱好 "],
+		"usphone": "ˈæpɪtaɪt",
+		"ukphone": "ˈæpɪtaɪt"
+	}, {
+		"name": "regulation",
+		"trans": ["n. 规章制度，规则；（运用规则条例的）管理，控制 adj. （使用或穿戴）符合规定的，正规的；<非正式> 公式化的，用俗套话堆砌而成的 "],
+		"usphone": "ˌreɡjuˈleɪʃn",
+		"ukphone": "ˌreɡjuˈleɪʃn"
+	}, {
+		"name": "regular",
+		"trans": ["adj. 恒定的，规则的（尤指间隔相同）；经常做（或发生）的，频繁的；经常做某事的，常去某地的；惯常的，通常的；持久的，固定的；<美>标准尺寸的，中号的；普通的，平凡的；常备军的，正规军的；（动词或名词）按规则变化的；（人）正常通便的，月经正常的；<非正式> 完全的，彻底的；（花）呈放射状对称的；等边的，匀称的；（冲浪等有板运动用语）左腿在前的；（人）受过适当培训（或取得适当资格）并从事全职工作的，有正式工作的；符合手续（或规定）的，正当的；（基督教）受教规约束的，属于修道会的 n. 常客，老主顾；主力队员，经常参加某项活动的人；正规军人，职业军人；<美>普通产品，普通装；（区别于世俗教士的）修道者，教士 "],
+		"usphone": "ˈreɡjələr",
+		"ukphone": "ˈreɡjələ(r)"
+	}, {
+		"name": "advance",
+		"trans": ["v. （使）前进，（使）向前移动；发展，进步；预付；提前，提早；促进，推动；提出（想法或理论）；上涨，增加；提拔，晋升 n. 前进；进步，进展；改善；预付款；勾引，追求；（价格、价值的）上涨；贷款 adj. 预先的，事先的；先行的，先遣的 "],
+		"usphone": "ədˈvæns",
+		"ukphone": "ədˈvɑːns"
+	}, {
+		"name": "advanced",
+		"trans": ["adj. 先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未被广泛接受）的 v. 行进；发展，进步；预付（advance 的过去式和过去分词形式） "],
+		"usphone": "ədˈvænst",
+		"ukphone": "ədˈvɑːnst"
+	}, {
+		"name": "simply",
+		"trans": ["adv. 仅仅，只，不过；简直，的确； 简单地，简明地；朴素地，简朴地 "],
+		"usphone": "ˈsɪmpli",
+		"ukphone": "ˈsɪmpli"
+	}, {
+		"name": "simple",
+		"trans": ["adj. 简单的，简明的；简朴的，朴素的；纯粹的，完全的；结构单一的，简易的；普通的，平凡的；愚笨的，迟钝的；（动词时态）简单的；（数）简单的；（叶、茎）没有分杈的；（镜头、显微镜等）单镜头的；（利息）单利的；（句子）无从句的 n. <史> 草药，药草；出身低微者；笨蛋 "],
+		"usphone": "ˈsɪmpl",
+		"ukphone": "ˈsɪmp(ə)l"
+	}, {
+		"name": "ensure",
+		"trans": ["v. 确保，保证；保护，使安全 "],
+		"usphone": "ɪnˈʃʊr",
+		"ukphone": "ɪnˈʃʊə(r)"
+	}, {
+		"name": "grain",
+		"trans": ["名词 n. 谷物，谷粒；颗粒，细粒；少量；纹理；（表面的）质地，触感；格令（旧的重量单位，一格令相当于0.065克）；（照片、底片的）显影颗粒；（用于火箭发动机的）固体推进剂；（皮革或其他类似人工材料的）粗糙面，皱面；（石头和煤等原料的）解理面，劈理面；<古>（人的）性格，天性；<史>胭脂虫，胭脂虫红； 谷物，谷粒 v. 使表面（或纹理）粗糙；成粒状；（尤指将家具或内表面）漆成木纹（或大理石纹）；将（生皮）去毛；<美>用谷物喂（马） "],
+		"usphone": "ɡreɪn",
+		"ukphone": "ɡreɪn"
+	}, {
+		"name": "microwave",
+		"trans": ["n. 微波炉；微波 v. 用微波炉烹调（或加热） "],
+		"usphone": "ˈmaɪkrəweɪv",
+		"ukphone": "ˈmaɪkrəweɪv"
+	}, {
+		"name": "purchase",
+		"trans": ["n. <正式>购买，采购；<正式>购买的东西；<法律>（非继承性的）财产置得；<正式>紧握，牢牢抓住；（移动重物的）滑轮（或类似装置） v. <正式> 购买，采购；<古>（努力或艰难地）获得，得到；（航海）（用滑轮或杠杆）升起，举起（绳，索，锚） "],
+		"usphone": "ˈpɜːrtʃəs",
+		"ukphone": "ˈpɜːtʃəs"
+	}, {
+		"name": "purse",
+		"trans": ["n. <英>钱包，皮夹子（尤指女用的）；<美>（女用）手提包，手袋；资金，财源；（体育竞赛中的）奖金 v. 噘嘴，撮起嘴唇（以表示反对等） "],
+		"usphone": "pɜːrs",
+		"ukphone": "pɜːs"
+	}, {
+		"name": "progress",
+		"trans": ["n. 进步，进展；前进，行进；（社会的）进步 v. 进步，进展；使（任务，事业）取得持续进展；（时间）推移，流逝；缓慢行进；（占星）计算行星（或星象图各星及坐标）的位置 "],
+		"usphone": "ˈprɑːɡres; ˈprɑːɡrəs",
+		"ukphone": "ˈprəʊɡres"
+	}, {
+		"name": "profit",
+		"trans": ["n. 利润，盈利；<正式> 利益，好处 v. 获益，得益（于）；赢利，获利 "],
+		"usphone": "ˈprɑːfɪt",
+		"ukphone": "ˈprɒfɪt"
+	}, {
+		"name": "prospect",
+		"trans": ["n. 可能性，希望；预期，展望；（尤指事业的）成功机会，前景；有望成功的人，有前途的人；可能的顾客，潜在的主顾；<正式>（尤指从高处看到的）景象，景色；潜在矿藏或矿床 v. 勘探，勘察；寻找（商业机会） "],
+		"usphone": "ˈprɑːspekt",
+		"ukphone": "ˈprɒspekt"
+	}, {
+		"name": "profitable",
+		"trans": ["adj. 盈利的，有利可图的；有益的，有用的 "],
+		"usphone": "ˈprɑːfɪtəbl",
+		"ukphone": "ˈprɒfɪtəbl"
+	}, {
+		"name": "soda",
+		"trans": ["n. 苏打；碳酸水 n. （Soda）人名；（意）索达；（日）曾田（姓） "],
+		"usphone": "ˈsoʊdə",
+		"ukphone": "ˈsəʊdə"
+	}, {
+		"name": "vehicle",
+		"trans": ["n. 交通工具，车辆；（实现目的的）工具，媒介；（为展露主演者才华而）度身定制的创作（电影、电视节目、歌曲等）；赋形药，调漆料；（个人，组织从事经营、尤指投资的）公司 "],
+		"usphone": "ˈviːəkl; ˈviːhɪkl",
+		"ukphone": "ˈviːəkl"
+	}, {
+		"name": "private",
+		"trans": ["adj. 私有的，自用的；（服务，行业）私营的，民营的；没有股票上市的；私下的，秘密的；（交易未涉及商业机构的）私下里的；（想法、感觉）私密的；未担任公职的，无官职的；与官职（或工作）无关的；安静的，不受打扰的；（人）内敛的，不喜欢谈论私事的；（尤指两人）单独的；私下辅导的；（教育，医疗）私立的；只有自己人明白的 n. （美、英陆军或美国海军陆战队）二等兵；<非正式> 私处，阴部（privates） "],
+		"usphone": "ˈpraɪvət",
+		"ukphone": "ˈpraɪvət"
+	}, {
+		"name": "government",
+		"trans": ["n. 政府，内阁；政体，国家体制；（国家等的）治理，管理；政府掌控经济和社会活动的程度；（语法）支配关系 "],
+		"usphone": "ˈɡʌvərnmənt",
+		"ukphone": "ˈɡʌvənmənt"
+	}, {
+		"name": "retirement",
+		"trans": ["n. 退休，退职；退休生活，退休期间；（运动员）停止参赛，退役；（陪审团）退庭表决；退庭表决时间；引退，退隐；<古>退隐处，隐蔽处 "],
+		"usphone": "rɪˈtaɪərmənt",
+		"ukphone": "rɪˈtaɪəmənt"
+	}, {
+		"name": "improvement",
+		"trans": ["n. 改善；改进之处 "],
+		"usphone": "ɪmˈpruːvmənt",
+		"ukphone": "ɪmˈpruːvmənt"
+	}, {
+		"name": "document",
+		"trans": ["n. 文件，公文，文献；证件，单据；（计算机）文件，文档 v. 记录，记载（详情） "],
+		"usphone": "ˈdɑːkjumənt",
+		"ukphone": "ˈdɒkjumənt"
+	}, {
+		"name": "equipment",
+		"trans": ["n. 设备，用具；（对某人或某物的）装备过程；（做某事应具备的）素质，才能 "],
+		"usphone": "ɪˈkwɪpmənt",
+		"ukphone": "ɪˈkwɪpmənt"
+	}, {
+		"name": "treatment",
+		"trans": ["n. 对待，待遇；处理，讨论；治疗，医治；（净化或防治）处理，加工；护理，护理品；<非正式>极致； 对待，待遇 "],
+		"usphone": "ˈtriːtmənt",
+		"ukphone": "ˈtriːtmənt"
+	}, {
+		"name": "argument",
+		"trans": ["n. 争论，争吵；论据，理由；辩论，讨论；自变数；主词，受词；<古>书的内容提要 "],
+		"usphone": "ˈɑːrɡjumənt",
+		"ukphone": "ˈɑːɡjumənt"
+	}, {
+		"name": "entertainment",
+		"trans": ["n. 娱乐，娱乐表演；招待，款待 "],
+		"usphone": "ˌentərˈteɪnmənt",
+		"ukphone": "ˌentəˈteɪnmənt"
+	}, {
+		"name": "arrangement",
+		"trans": ["n. 安排，筹备；商定，约定；整理，排列，布置；改编 "],
+		"usphone": "əˈreɪndʒmənt",
+		"ukphone": "əˈreɪndʒmənt"
+	}, {
+		"name": "payment",
+		"trans": ["n. 支付款项，支付额；付款，支付；报答，报复 "],
+		"usphone": "ˈpeɪmənt",
+		"ukphone": "ˈpeɪmənt"
+	}, {
+		"name": "performance",
+		"trans": ["n. 表演，演出；工作情况，表现；（投资的）业绩；执行，履行；麻烦，苦差事（a performance）；艺术上的表现，演技；（汽车的）性能；（语言学）语言表现，言语行为 adj. 性能卓越的，高性能的 "],
+		"usphone": "pərˈfɔːrməns",
+		"ukphone": "pəˈfɔːməns"
+	}, {
+		"name": "perform",
+		"trans": ["v. 演出，表演；执行，履行（尤指复杂的任务或行动）；运行，表现；起…...作用，有…...功能 "],
+		"usphone": "pərˈfɔːrm",
+		"ukphone": "pəˈfɔːm"
+	}, {
+		"name": "communication",
+		"trans": ["n. 表达，交流，交际；信息，书信，电话；通讯，交通联系；传播学 "],
+		"usphone": "kəˌmjuːnɪˈkeɪʃn",
+		"ukphone": "kəˌmjuːnɪˈkeɪʃn"
+	}, {
+		"name": "communicate",
+		"trans": ["v. 传递信息，通讯；传达，传递（想法或感情）；传染（疾病）；（房间或建筑）相通，相连；传输（热，力），传递（运动）；领受圣餐 "],
+		"usphone": "kəˈmjuːnɪkeɪt",
+		"ukphone": "kəˈmjuːnɪkeɪt"
+	}, {
+		"name": "intelligence",
+		"trans": ["n. 智力，才智；智能；情报，谍报；情报机构 "],
+		"usphone": "ɪnˈtelɪdʒəns",
+		"ukphone": "ɪnˈtelɪdʒəns"
+	}, {
+		"name": "intelligent",
+		"trans": ["adj. 聪明的；有智力的；智能的 "],
+		"usphone": "ɪnˈtelɪdʒənt",
+		"ukphone": "ɪnˈtelɪdʒənt"
+	}, {
+		"name": "quit",
+		"trans": ["v. <美，非正式>停止，戒掉；<非正式>离开（工作岗位、学校等），离任；搬离（租住的房子），离开（某地）；关闭，退出（计算机程序等）；使解除，使摆脱 adj. 摆脱了……的，已经了结的（quit of） n. 辞职，离任 "],
+		"usphone": "kwɪt",
+		"ukphone": "kwɪt"
+	}, {
+		"name": "worth",
+		"trans": ["adj. 价值……的，值……钱的；值得的，具有……价值的；拥有……财产的；（尤指合同）毫无价值的 n. 价格，价值；重要性，作用； 能用（一个星期、一个月等）的东西 "],
+		"usphone": "wɜːrθ",
+		"ukphone": "wɜːθ"
+	}, {
+		"name": "participate",
+		"trans": ["v. 参加，参与；<古>分担，分享；<古>具有，带有（特殊的性质） "],
+		"usphone": "pɑːrˈtɪsɪpeɪt",
+		"ukphone": "pɑːˈtɪsɪpeɪt"
+	}, {
+		"name": "participant",
+		"trans": ["n. 参加者，参与者 adj.  参与的 "],
+		"usphone": "pɑːrˈtɪsɪpənt",
+		"ukphone": "pɑːˈtɪsɪpənt"
+	}, {
+		"name": "principle",
+		"trans": ["n. （行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素 "],
+		"usphone": "ˈprɪnsəpl",
+		"ukphone": "ˈprɪnsəpl"
+	}, {
+		"name": "facility",
+		"trans": ["n. 设施，设备；卫生间；天赋，才能；（机器等的）特别装置，（服务等的）特色；（用作某种用途的）区，大楼 "],
+		"usphone": "fəˈsɪləti",
+		"ukphone": "fəˈsɪləti"
+	}, {
+		"name": "assistant",
+		"trans": ["n. 助理，助手；店员，售货员 adj. 助理的，副的 "],
+		"usphone": "əˈsɪstənt",
+		"ukphone": "əˈsɪstənt"
+	}, {
+		"name": "assist",
+		"trans": ["v. 帮助，协助；<古>参加，出席 n. （球赛中的）助攻；资助，帮助 "],
+		"usphone": "əˈsɪst",
+		"ukphone": "əˈsɪst"
+	}, {
+		"name": "instance",
+		"trans": ["n. 例子，实例 v. 举……为例 "],
+		"usphone": "ˈɪnstəns",
+		"ukphone": "ˈɪnstəns"
+	}, {
+		"name": "instant",
+		"trans": ["adj. 立刻的，马上的；速食的，即食的；紧急的，紧迫的；<旧>（商业信函用语）本月的；<旧>此刻的，现时的 n. 瞬间，片刻；当时，那一刻；<非正式>速溶咖啡 "],
+		"usphone": "ˈɪnstənt",
+		"ukphone": "ˈɪnstənt"
+	}, {
+		"name": "statistic",
+		"trans": ["n. 统计数字，统计资料；统计学（statistics）；（一项）统计数据 adj. 统计的，统计学的（同 statistical） "],
+		"usphone": "stəˈtɪstɪk",
+		"ukphone": "stəˈtɪstɪk"
+	}, {
+		"name": "status",
+		"trans": ["n. 法律地位（或身分）；（尤指在社会中的）地位，身份；高级职位，社会上层地位；重视（或崇尚）程度；状况，情形 "],
+		"usphone": "ˈsteɪtəs",
+		"ukphone": "ˈsteɪtəs"
 	}
 ]
