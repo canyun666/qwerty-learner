@@ -4164,5 +4164,635 @@
 		"trans": ["adj. 破产的，倒闭的；沦丧的，无价值的 v. 使破产，使极其贫困 n. 破产者 "],
 		"usphone": "ˈbæŋkrʌpt",
 		"ukphone": "ˈbæŋkrʌpt"
+	}, {
+		"name": "electronic",
+		"trans": ["adj. 电子的，电子学的 "],
+		"usphone": "ɪˌlekˈtrɑːnɪk",
+		"ukphone": "ɪˌlekˈtrɒnɪk"
+	}, {
+		"name": "electrical",
+		"trans": ["adj. 电的，与电有关的；生产或销售电器的 n. 电气设备，电路；电器公司发行的股票 "],
+		"usphone": "ɪˈlektrɪkl",
+		"ukphone": "ɪˈlektrɪkl"
+	}, {
+		"name": "electronics",
+		"trans": ["n. 电子学；电子设备，电子器件 "],
+		"usphone": "ɪˌlekˈtrɑːnɪks",
+		"ukphone": "ɪˌlekˈtrɒnɪks"
+	}, {
+		"name": "dramatic",
+		"trans": ["adj. 巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的 "],
+		"usphone": "drəˈmætɪk",
+		"ukphone": "drəˈmætɪk"
+	}, {
+		"name": "dramatically",
+		"trans": ["adv. 剧烈地，明显地；戏剧性地，夸张地 "],
+		"usphone": "drəˈmætɪkli",
+		"ukphone": "drəˈmætɪkli"
+	}, {
+		"name": "virtual",
+		"trans": ["adj. 几乎……的，实质上的；（在计算机或互联网上存在或出现的）虚拟的，模拟的；（光学）虚的，虚拟的；（机械学）虚的；（物理）虚的 "],
+		"usphone": "ˈvɜːrtʃuəl",
+		"ukphone": "ˈvɜːtʃuəl"
+	}, {
+		"name": "virtually",
+		"trans": ["adv. 事实上，几乎；虚拟地，模拟地 "],
+		"usphone": "ˈvɜːrtʃuəli",
+		"ukphone": "ˈvɜːtʃuəli"
+	}, {
+		"name": "union",
+		"trans": ["n. 联合，结合；和谐，一致；联盟，联合体；工会；俱乐部，会社；结婚，婚姻；性交；联管节，接头；（印度次大陆）村落联合体；南非；（数）并，并集；并集形成；<英>教会同盟，联合教会；<英，史>教区联合济贫组织；旗帜上象征国家统一的部分（一般在内上角）；交织织物，混纺织物；（尤指内战时期的）美利坚合众国（the Union）；（美国南北战争期间的）联邦（the Union）；<史> 1603年英格兰和苏格兰王国合一，1707年英格兰和苏格兰国会合一，1801年大不列颠和爱尔兰国会合一（the Union） "],
+		"usphone": "ˈjuːniən",
+		"ukphone": "ˈjuːniən"
+	}, {
+		"name": "carbon",
+		"trans": ["n. 碳；复写纸；炭精棒；碳纤维 adj. 碳的，碳处理的 "],
+		"usphone": "ˈkɑːrbən",
+		"ukphone": "ˈkɑːbən"
+	}, {
+		"name": "container",
+		"trans": ["n. 容器；集装箱，货柜 "],
+		"usphone": "kənˈteɪnər",
+		"ukphone": "kənˈteɪnə(r)"
+	}, {
+		"name": "entertain",
+		"trans": ["v. 使有兴趣，使快乐；心存，怀有（想法、希望、感觉等）；招待，请客 "],
+		"usphone": "ˌentərˈteɪn",
+		"ukphone": "ˌentəˈteɪn"
+	}, {
+		"name": "retain",
+		"trans": ["v. 保持，保留；保存，储存；记住；付定金聘定（尤指律师）；留用（员工） "],
+		"usphone": "rɪˈteɪn",
+		"ukphone": "rɪˈteɪn"
+	}, {
+		"name": "obtain",
+		"trans": ["v. （尤指通过艰难的过程）得到，获得；<正式>（规则或情况）存在，通用 "],
+		"usphone": "əbˈteɪn",
+		"ukphone": "əbˈteɪn"
+	}, {
+		"name": "sustainable",
+		"trans": ["adj. （计划、方法、体制）可持续的，持续性的；（自然资源）可持续的，不破坏环境的 ；站得住脚的 "],
+		"usphone": "səˈsteɪnəbl",
+		"ukphone": "səˈsteɪnəb(ə)l"
+	}, {
+		"name": "continent",
+		"trans": ["n. 洲，大陆 adj. 有排便节制力的；<旧>节制性欲的 "],
+		"usphone": "ˈkɑːntɪnənt",
+		"ukphone": "ˈkɒntɪnənt"
+	}, {
+		"name": "continuous",
+		"trans": ["adj. 连续不断的，持续的；（语法）进行式的；（函数）连续的 "],
+		"usphone": "kənˈtɪnjuəs",
+		"ukphone": "kənˈtɪnjuəs"
+	}, {
+		"name": "parental",
+		"trans": ["adj. 父母的，双亲的；亲代的，亲本的；母公司的，上级的 "],
+		"usphone": "pəˈrentl",
+		"ukphone": "pəˈrent(ə)l"
+	}, {
+		"name": "comparable",
+		"trans": ["adj. 可比的，可比较的；类似的，同类的 "],
+		"usphone": "ˈkɑːmpərəbl",
+		"ukphone": "ˈkɒmpərəb(ə)l"
+	}, {
+		"name": "preparation",
+		"trans": ["n. 准备（指动作或过程）；准备工作，筹备工作（preparations）；（食物、医药、化妆品的）制剂，配制品；（为科学实验或医药检验预备的）标本；（乐）准备音 "],
+		"usphone": "ˌprepəˈreɪʃn",
+		"ukphone": "ˌprepəˈreɪʃn"
+	}, {
+		"name": "apparently",
+		"trans": ["adv. 据说，显然；似乎，好像 "],
+		"usphone": "əˈpærəntli",
+		"ukphone": "əˈpærəntli"
+	}, {
+		"name": "crucial",
+		"trans": ["adj. 至关重要的，决定性的；<非正式>极好的 "],
+		"usphone": "ˈkruːʃl",
+		"ukphone": "ˈkruːʃ(ə)l"
+	}, {
+		"name": "racial",
+		"trans": ["adj. 种族关系的，种族之间的；人种的，种族的 "],
+		"usphone": "ˈreɪʃl",
+		"ukphone": "ˈreɪʃl"
+	}, {
+		"name": "beneficial",
+		"trans": ["adj. 有益的，有利的；<法律>（与）权益（有关）的，有财产使用权的 "],
+		"usphone": "ˌbenɪˈfɪʃl",
+		"ukphone": "ˌbenɪˈfɪʃ(ə)l"
+	}, {
+		"name": "exhibit",
+		"trans": ["v. 表现出；卖弄，炫耀；提出（证据等）；展览，展出 n. 展品；（法庭上出示的）证物；<美>展览，展出 "],
+		"usphone": "ɪɡˈzɪbɪt",
+		"ukphone": "ɪɡˈzɪbɪt"
+	}, {
+		"name": "prohibit",
+		"trans": ["v. （通过法律、条例等）禁止；阻止，使不可能 "],
+		"usphone": "prəˈhɪbɪtˌproʊˈhɪbɪt",
+		"ukphone": "prəˈhɪbɪt"
+	}, {
+		"name": "exhibition",
+		"trans": ["n. 展览，展出；表现，展示；<美>表演赛；<英>奖学金 "],
+		"usphone": "ˌeksɪˈbɪʃn",
+		"ukphone": "ˌeksɪˈbɪʃ(ə)n"
+	}, {
+		"name": "prohibition",
+		"trans": ["n. 禁令，禁律；禁止；<英>（上级法院禁止下级法院对无权受理案件审理的）诉讼中止令；（1920至1933年美国的）禁酒时期（Prohibition） "],
+		"usphone": "ˌprəʊɪˈbɪʃn",
+		"ukphone": "ˌprəʊɪˈbɪʃn"
+	}, {
+		"name": "innovative",
+		"trans": ["adj. 革新的，新颖的；富有革新精神的 "],
+		"usphone": "ˈɪnəveɪtɪv",
+		"ukphone": "ˈɪnəveɪtɪv"
+	}, {
+		"name": "innovate",
+		"trans": ["v. 革新，创新 "],
+		"usphone": "ˈɪnəveɪt",
+		"ukphone": "ˈɪnəveɪt"
+	}, {
+		"name": "renovate",
+		"trans": ["v. 修复，翻新（尤指建筑物）；使恢复活力 "],
+		"usphone": "ˈrenəveɪt",
+		"ukphone": "ˈrenəveɪt"
+	}, {
+		"name": "renovation",
+		"trans": ["n. 翻新，整修 "],
+		"usphone": "ˌrenəˈveɪʃn",
+		"ukphone": "ˌrenəˈveɪʃn"
+	}, {
+		"name": "immigrant",
+		"trans": ["n. （外来）移民，侨民 adj. 移民的，迁入的 "],
+		"usphone": "ˈɪmɪɡrənt",
+		"ukphone": "ˈɪmɪɡrənt"
+	}, {
+		"name": "migrate",
+		"trans": ["v. （候鸟或动物）迁徙；（尤指为找工作）移居，迁移；转移（从一个部位移到另一部位）；把（程序，硬件）从一系统转移到另一系统；改用操作系统 "],
+		"usphone": "ˈmaɪɡreɪt",
+		"ukphone": "maɪˈɡreɪt"
+	}, {
+		"name": "migration",
+		"trans": ["n. 移民，迁徙；（计算机系统的）改变，（程序或硬件的）迁移，转移 "],
+		"usphone": "maɪˈɡreɪʃn",
+		"ukphone": "maɪˈɡreɪʃn"
+	}, {
+		"name": "universal",
+		"trans": ["adj. 普遍的，全体的，全世界的；通用的，万能的；（逻）全称的，总称的 n. 普遍原则，通用原理；普遍看法，普遍特征；（逻）全称命题；（哲）普遍，一般概念；（哲）共相；（语言学）普遍现象，通用规则 "],
+		"usphone": "ˌjuːnɪˈvɜːrsl",
+		"ukphone": "ˌjuːnɪˈvɜːsl"
+	}, {
+		"name": "diversity",
+		"trans": ["n. 多样性，多样化；不同，差异 "],
+		"usphone": "daɪˈvɜːrsəti; dɪˈvɜːsɪti",
+		"ukphone": "daɪˈvɜːsəti"
+	}, {
+		"name": "controversy",
+		"trans": ["n. 争论，争议 "],
+		"usphone": "ˈkɑːntrəvɜːrsi",
+		"ukphone": "ˈkɒntrəvɜːsi; kənˈtrɒvəsi"
+	}, {
+		"name": "advertising",
+		"trans": ["n. 广告活动，广告业；（总称）广告 v. 登广告；公布，征聘；宣扬（advertise 的现在分词形式） "],
+		"usphone": "ˈædvərtaɪzɪŋ",
+		"ukphone": "ˈædvətaɪzɪŋ"
+	}, {
+		"name": "convert",
+		"trans": ["v. （使）转变，（使）转换；（使）改变信仰，（使）皈依；（达阵后）得附加分；使……迷上，使……热衷于 n. 皈依宗教者，改变信仰者；刚迷上……的人，最近开始热衷于……的人 "],
+		"usphone": "kənˈvɜːrt",
+		"ukphone": "kənˈvɜːt"
+	}, {
+		"name": "conclusion",
+		"trans": ["n. 结论，推论；结局，结尾；缔结，商定；（根据所给前提得出的）命题 "],
+		"usphone": "kənˈkluːʒn",
+		"ukphone": "kənˈkluːʒn"
+	}, {
+		"name": "conclusive",
+		"trans": ["adj. 结论性的，毫无疑问的 "],
+		"usphone": "kənˈkluːsɪv",
+		"ukphone": "kənˈkluːsɪv"
+	}, {
+		"name": "exclusive",
+		"trans": ["adj. 独有的，专用的；高档的，昂贵的；不含……的；排外的；排斥的；全部的；唯一关心的；（新闻或报道）独家的；（条款）除外责任的；高级的，昂贵的 n. 独家新闻，独家报道 "],
+		"usphone": "ɪkˈskluːsɪv",
+		"ukphone": "ɪkˈskluːsɪv"
+	}, {
+		"name": "unemployed",
+		"trans": ["adj. 未被雇用的，失业的；（物）闲置的，未用的 n. 失业者（the unemployed） "],
+		"usphone": "ˌʌnɪmˈplɔɪd",
+		"ukphone": "ˌʌnɪmˈplɔɪd"
+	}, {
+		"name": "uncertainty",
+		"trans": ["n.  犹豫，无把握；拿不定的事，令人无把握的局面；紧张不安 "],
+		"usphone": "ʌnˈsɜːrtnti",
+		"ukphone": "ʌnˈsɜːt(ə)nti"
+	}, {
+		"name": "uneasy",
+		"trans": ["adj. 担忧的，不安的；令人不舒服的，不安稳的；（情况）不稳定的；（书或音乐）难懂的，晦涩的；不和谐的，矛盾的 "],
+		"usphone": "ʌnˈiːzi",
+		"ukphone": "ʌnˈiːzi"
+	}, {
+		"name": "civilization",
+		"trans": ["n. 文明；文明社会，文明国家；人类社会；舒适的生活环境；教化，开化 "],
+		"usphone": "ˌsɪvələˈzeɪʃn",
+		"ukphone": "ˌsɪvəlaɪˈzeɪʃ(ə)n"
+	}, {
+		"name": "civilian",
+		"trans": ["n. 平民，百姓（区别于军、警） adj. 平民的，民用的 "],
+		"usphone": "səˈvɪliən",
+		"ukphone": "səˈvɪliən"
+	}, {
+		"name": "secretary",
+		"trans": ["n. 秘书；书记员，干事；部长，大臣；（英国大使、大臣的）助理 "],
+		"usphone": "ˈsekrəteri",
+		"ukphone": "ˈsekrət(ə)ri"
+	}, {
+		"name": "concrete",
+		"trans": ["adj. 确实的，具体的；实在的，有形的；混凝土的；物质的 n. 混凝土 v. 用混凝土覆盖（或做成）；<旧>（使）凝固，（使）凝结；使真实（化），使具体（化） "],
+		"usphone": "ˈkɑːnkriːt",
+		"ukphone": "ˈkɒŋkriːt"
+	}, {
+		"name": "recruit",
+		"trans": ["v. 招聘，招收（新成员）；招募（新兵）；说服，动员；（通过招募）组成，组建；<旧> 恢复（数量、力气等） n.  新兵；新成员 "],
+		"usphone": "rɪˈkruːt",
+		"ukphone": "rɪˈkruːt"
+	}, {
+		"name": "recruitment",
+		"trans": ["n. 招募，招聘；（自然种群）增长；（生理）募集（反应、现象） "],
+		"usphone": "rɪˈkruːtmənt",
+		"ukphone": "rɪˈkruːtmənt"
+	}, {
+		"name": "creature",
+		"trans": ["n. 生物，动物；（具有某种特征的）人；怪物；受支配的人，产物 "],
+		"usphone": "ˈkriːtʃər",
+		"ukphone": "ˈkriːtʃə(r)"
+	}, {
+		"name": "frequency",
+		"trans": ["n. 出现次数；频繁；频率 "],
+		"usphone": "ˈfriːkwənsi",
+		"ukphone": "ˈfriːkwənsi"
+	}, {
+		"name": "frequent",
+		"trans": ["adj. 频繁的，经常性的；<古>间隔很近的 v. 常去，常出入于 "],
+		"usphone": "ˈfriːkwənt; friˈkwent",
+		"ukphone": "ˈfriːkwənt"
+	}, {
+		"name": "suggestion",
+		"trans": ["n. 建议，意见；提议；微量；征兆，细微的迹象；联想，启示；暗示；（尤指催眠术等疗法中的）心理暗示；（心理）心理暗示（或提示）； "],
+		"usphone": "səˈdʒestʃən; səɡˈdʒestʃən",
+		"ukphone": "səˈdʒestʃən"
+	}, {
+		"name": "digest",
+		"trans": ["v. 理解，领悟；消化 n. 文摘，摘要；分解物，提炼物 "],
+		"usphone": "daɪˈdʒest; dɪˈdʒest",
+		"ukphone": "daɪˈdʒest"
+	}, {
+		"name": "adulthood",
+		"trans": ["n. 成年，成人时期 "],
+		"usphone": "əˈdʌlthʊd",
+		"ukphone": "ˈædʌlthʊd; əˈdʌlthʊd"
+	}, {
+		"name": "livelihood",
+		"trans": ["n. 生计，营生 "],
+		"usphone": "ˈlaɪvlihʊd",
+		"ukphone": "ˈlaɪvlihʊd"
+	}, {
+		"name": "ambitious",
+		"trans": ["adj. 有抱负的，野心勃勃的；费劲的，艰巨的；热望的 "],
+		"usphone": "æmˈbɪʃəs",
+		"ukphone": "æmˈbɪʃəs"
+	}, {
+		"name": "initiative",
+		"trans": ["n. 措施，倡议；主动性，积极性；主动权；（美国某些州的）公民立法提案程序 "],
+		"usphone": "ɪˈnɪʃətɪv",
+		"ukphone": "ɪˈnɪʃətɪv"
+	}, {
+		"name": "initial",
+		"trans": ["adj. 开始的，最初的；（字母）位于词首的 n. （姓名的）首字母 v. 用姓名的首字母作标记（或签名）于 "],
+		"usphone": "ɪˈnɪʃl",
+		"ukphone": "ɪˈnɪʃl"
+	}, {
+		"name": "initially",
+		"trans": ["adv. 开始，最初 "],
+		"usphone": "ɪˈnɪʃəli",
+		"ukphone": "ɪˈnɪʃəli"
+	}, {
+		"name": "transit",
+		"trans": ["n. 运输，运送；<美>交通运输系统；通过，经过；（天文）凌日；（天文）中天；（占星）凌；（商标）（尤指用于运货的）“全顺”汽车（Transit） v. 经过，穿过；（天文）（行星等天体）经过（另一天体、子午线）；（占星）（行星等天体）经过（黄道十二宫之一、住宅或星图区域） "],
+		"usphone": "ˈtrænzɪtˌˈtrænsɪt",
+		"ukphone": "ˈtrænzɪt"
+	}, {
+		"name": "basis",
+		"trans": ["n. 基础，要素；基准，方式；理由，根据；主要成分（或部分） "],
+		"usphone": "ˈbeɪsɪs",
+		"ukphone": "ˈbeɪsɪs"
+	}, {
+		"name": "admit",
+		"trans": ["v. （勉强）承认；招认，招供；准许进入（某处）；接纳，接收（入学）；收治，接收入院；承认……有效；容许，为……留有余地 "],
+		"usphone": "ədˈmɪt",
+		"ukphone": "ədˈmɪt"
+	}, {
+		"name": "commitment",
+		"trans": ["n. 忠诚，献身；承诺，保证；奉献，投入；热情，决心；义务，责任；花费，使用（资金、时间、人力）；需要定期支付的款项 "],
+		"usphone": "kəˈmɪtmənt",
+		"ukphone": "kəˈmɪtmənt"
+	}, {
+		"name": "submit",
+		"trans": ["v. 呈递，提交；屈服，不得已接受；建议，主张；使经受，使受到 "],
+		"usphone": "səbˈmɪt",
+		"ukphone": "səbˈmɪt"
+	}, {
+		"name": "emit",
+		"trans": ["v. 排放，散发（尤指气体、辐射物）；发出（声音或噪音）；发行，发表 "],
+		"usphone": "iˈmɪt",
+		"ukphone": "iˈmɪt"
+	}, {
+		"name": "transmit",
+		"trans": ["v. 播送，传输，发射；传递，传达（思想、情感）；传播，传染（病毒、疾病等）；传导（声、电等），透（光等） "],
+		"usphone": "trænzˈmɪtˌtrænsˈmɪt",
+		"ukphone": "trænzˈmɪt"
+	}, {
+		"name": "mission",
+		"trans": ["n. （尤指赴他国的）使命，重要任务；职责，天职；（军用飞机或航天火箭的）飞行任务；军事行动；（一个组织的）目的，宗旨；外交使团，代表团；驻外机构，使馆；（尤指在海外的）传教，布道；传教团，布道团；布道所，传教所 vi. 作艰苦的长途旅行（尤指去许多地方）；派遣；向……传教 "],
+		"usphone": "ˈmɪʃn",
+		"ukphone": "ˈmɪʃn"
+	}, {
+		"name": "commission",
+		"trans": ["n. 考察团，委员会；佣金，回扣；犯罪；委托，命令；（军队中的）官职，军衔；（尤指艺术品）委托制作；<古>所授之权，代办权 v. 委托撰写，委托制作；委任，任命……为军官；（使军舰）正式使用，服现役 "],
+		"usphone": "kəˈmɪʃn",
+		"ukphone": "kəˈmɪʃn"
+	}, {
+		"name": "permission",
+		"trans": ["n. 同意，许可；许可证，书面许可 "],
+		"usphone": "pərˈmɪʃn",
+		"ukphone": "pəˈmɪʃn"
+	}, {
+		"name": "mess",
+		"trans": ["n. 肮脏，杂乱；不整洁或邋遢的人（或物）；掉落的东西，溅出的东西；（动物的）粪便；困境，混乱局面；处于困境的人；（军队的）食堂，交谊厅；<美，非正式> 大量；（尤指引不起食欲的）半干半稀的一份食物 v. 弄脏，弄乱；玩弄；随地便溺；在军人食堂就餐 "],
+		"usphone": "mes",
+		"ukphone": "mes"
+	}, {
+		"name": "authority",
+		"trans": ["n. 专家，权威人士；行政管理机构；权利，权限；权威，威信；许可，授权；当局，官方 "],
+		"usphone": "əˈθɔːrəti",
+		"ukphone": "ɔːˈθɒrəti"
+	}, {
+		"name": "density",
+		"trans": ["n. 稠密，密集；密度 "],
+		"usphone": "ˈdensəti",
+		"ukphone": "ˈdensəti"
+	}, {
+		"name": "humanity",
+		"trans": ["n. 人类（总称）；人性，人的属性；人道，仁慈；（历史、哲学、文学等）人文学科 "],
+		"usphone": "hjuːˈmænəti",
+		"ukphone": "hjuːˈmænəti"
+	}, {
+		"name": "charity",
+		"trans": ["n. 慈善组织，慈善机构；慈善事业；仁慈，宽厚；赈济，施舍 "],
+		"usphone": "ˈtʃærəti",
+		"ukphone": "ˈtʃærəti"
+	}, {
+		"name": "necessity",
+		"trans": ["n. 必需品，必需的事物；必要，需要；必然性，不可避免的情况 "],
+		"usphone": "nəˈsesəti",
+		"ukphone": "nəˈsesəti"
+	}, {
+		"name": "clarity",
+		"trans": ["n. 清晰易懂；思路清晰；（画面或声音的）清晰，清楚；清澈，明净 "],
+		"usphone": "ˈklærəti",
+		"ukphone": "ˈklærəti"
+	}, {
+		"name": "anxiety",
+		"trans": ["n. 焦虑，忧虑；令人焦虑的事；渴望；焦虑症 "],
+		"usphone": "æŋˈzaɪəti",
+		"ukphone": "æŋˈzaɪəti"
+	}, {
+		"name": "penalty",
+		"trans": ["n. （因违反法律、规定或合同而受到的）处罚，刑罚；（行为、环境带来的）不利后果，苦难；（体育运动中对犯规者的）判罚，处罚；（足球、橄榄球及类似运动中的）罚球；（桥牌）（叫牌者未完成定约时的）罚分 "],
+		"usphone": "ˈpenəlti",
+		"ukphone": "ˈpenəlti"
+	}, {
+		"name": "poverty",
+		"trans": ["n. 贫穷，贫困；<正式>贫乏，低劣；个人财产权的放弃（作为宗教誓约的一部分） "],
+		"usphone": "ˈpɑːvərti",
+		"ukphone": "ˈpɒvəti"
+	}, {
+		"name": "loyalty",
+		"trans": ["n. 忠诚，忠贞；忠于……的强烈情感 "],
+		"usphone": "ˈlɔɪəlti",
+		"ukphone": "ˈlɔɪəlti"
+	}, {
+		"name": "cruelty",
+		"trans": ["n. 残酷，残忍；不公，虐待 "],
+		"usphone": "ˈkruːəlti",
+		"ukphone": "ˈkruːəlti"
+	}, {
+		"name": "collection",
+		"trans": ["n. 收藏品，收集物；募捐；一堆（东西），一群（人）；系列时装；专辑，作品集；领取，收取；收集，采集；收账，收债；<英>（尤指牛津大学的）学院期初（或期末）考试 "],
+		"usphone": "kəˈlekʃn",
+		"ukphone": "kəˈlekʃn"
+	}, {
+		"name": "lecture",
+		"trans": ["n. 讲座，讲课，演讲；训斥，告诫 v. （尤指在大学里）开讲座，讲课；训斥，告诫 "],
+		"usphone": "ˈlektʃər",
+		"ukphone": "ˈlektʃə(r)"
+	}, {
+		"name": "intellectual",
+		"trans": ["adj. 智力的，理智的；才智超群的；需智力的；思想的，思维的 n. 知识分子 "],
+		"usphone": "ˌɪntəˈlektʃuəl",
+		"ukphone": "ˌɪntəˈlektʃuəl"
+	}, {
+		"name": "neglect",
+		"trans": ["v. 疏于照顾，未予看管；不予重视，忽视；漏做 n. 忽略，忽视，未被重视 "],
+		"usphone": "nɪˈɡlekt",
+		"ukphone": "nɪˈɡlekt"
+	}, {
+		"name": "intense",
+		"trans": ["adj. 很大的，十分强烈的；严肃紧张的，激烈的；热情的，热切的；专注的，认真的 "],
+		"usphone": "ɪnˈtens",
+		"ukphone": "ɪnˈtens"
+	}, {
+		"name": "tension",
+		"trans": ["n. 紧张，焦虑；紧张关系，紧张局势；矛盾，冲突；（电线、绳子、肌肉等的）拉紧，绷紧；拉力，张力；（电影、书籍中的）紧张情绪，恐怖气氛；（编织的）针织密度；电压 v. 使拉紧，使紧张 "],
+		"usphone": "ˈtenʃn",
+		"ukphone": "ˈtenʃ(ə)n"
+	}, {
+		"name": "intensify",
+		"trans": ["null 加剧，增强；增强（底片）的阻光度，增加（底片）的厚度 "],
+		"usphone": "ɪnˈtensɪfaɪ",
+		"ukphone": "ɪnˈtensɪfaɪ"
+	}, {
+		"name": "intensive",
+		"trans": ["adj. 加强的，集中的，深入细致的；精耕细作的，集约的；加强词意的；以强度测量的 n. 加强语势的形容词（或副词、小品词） "],
+		"usphone": "ɪnˈtensɪv",
+		"ukphone": "ɪnˈtensɪv"
+	}, {
+		"name": "intend",
+		"trans": ["v. 打算，想要；意指，意思是；准备，预留（作某种用途或给某人用） "],
+		"usphone": "ɪnˈtend",
+		"ukphone": "ɪnˈtend"
+	}, {
+		"name": "tendency",
+		"trans": ["n. 经常性行为，偏好；趋势，趋向；（性格中不良的）倾向；（政党内的）极端派别 "],
+		"usphone": "ˈtendənsi",
+		"ukphone": "ˈtendənsi"
+	}, {
+		"name": "attendance",
+		"trans": ["n. 出席人数；出席，出勤；考勤情况；提供帮助（in attendance） "],
+		"usphone": "əˈtendəns",
+		"ukphone": "əˈtendəns"
+	}, {
+		"name": "contend",
+		"trans": ["v. 声称，主张；竞争，争夺；处理，对付 "],
+		"usphone": "kənˈtend",
+		"ukphone": "kənˈtend"
+	}, {
+		"name": "actual",
+		"trans": ["adj. 真实的，实际的，现实的；（用于对比主次方面）真正的；现存的，当前的 "],
+		"usphone": "ˈæktʃuəl",
+		"ukphone": "ˈæktʃuəl"
+	}, {
+		"name": "interact",
+		"trans": ["v. 相互交流，互动；相互作用，相互影响 "],
+		"usphone": "ˌɪntərˈækt",
+		"ukphone": "ˌɪntərˈækt"
+	}, {
+		"name": "reaction",
+		"trans": ["n. 反应，回应；反应能力（reactions）；（药物或食物引起的）不良反应；化学反应；反作用力；（对旧观念等的）抗拒；反动，守旧 "],
+		"usphone": "riˈækʃn",
+		"ukphone": "riˈækʃn"
+	}, {
+		"name": "transaction",
+		"trans": ["n. 交易，买卖，业务；（学术团体会议的）议事录，公报；（人与人之间的）交流，相互影响；事务（元），事项 "],
+		"usphone": "trænˈzækʃn",
+		"ukphone": "trænˈzækʃ(ə)n"
+	}, {
+		"name": "react",
+		"trans": ["v. （作出）反应；起化学反应； (对食物等）不良反应，过敏；（股票价格）回跌 "],
+		"usphone": "riˈækt",
+		"ukphone": "riˈækt"
+	}, {
+		"name": "appliance",
+		"trans": ["n. 家用电器，装置；<英>应用；消防车 "],
+		"usphone": "əˈplaɪəns",
+		"ukphone": "əˈplaɪəns"
+	}, {
+		"name": "applicant",
+		"trans": ["n. 申请人 "],
+		"usphone": "ˈæplɪkənt",
+		"ukphone": "ˈæplɪkənt"
+	}, {
+		"name": "appointment",
+		"trans": ["n. 约会，约定；任命，委派；职务，职位；家具，陈设 "],
+		"usphone": "əˈpɔɪntmənt",
+		"ukphone": "əˈpɔɪntmənt"
+	}, {
+		"name": "appreciate",
+		"trans": ["v. 欣赏，鉴赏；理解，明白；感谢，感激；升值，增值 "],
+		"usphone": "əˈpriːʃieɪt",
+		"ukphone": "əˈpriːʃieɪt"
+	}, {
+		"name": "appropriate",
+		"trans": ["adj. 合适的，相称的 v. 拨出（款项）；私占，挪用 "],
+		"usphone": "əˈproʊpriət; əˈproʊprieɪt",
+		"ukphone": "əˈprəʊpriət"
+	}, {
+		"name": "appealing",
+		"trans": ["adj. 吸引人的，有感染力的；恳求的，可怜的 v. 呼吁，恳求；上诉；引起兴趣（appeal 的现在分词形式） "],
+		"usphone": "əˈpiːlɪŋ",
+		"ukphone": "əˈpiːlɪŋ"
+	}, {
+		"name": "acknowledge",
+		"trans": ["v. 承认；认可； 跟……打招呼，理会；告知收到；（公开）感谢 "],
+		"usphone": "əkˈnɑːlɪdʒ",
+		"ukphone": "əkˈnɒlɪdʒ"
+	}, {
+		"name": "accommodate",
+		"trans": ["v. 为……提供住宿；容纳，提供空间；考虑到，顾及；顺应，适应；帮助（某人），向……施以援手；迎合，迁就；调解 "],
+		"usphone": "əˈkɑːmədeɪt",
+		"ukphone": "əˈkɒmədeɪt"
+	}, {
+		"name": "accumulate",
+		"trans": ["v. 积累，积攒 "],
+		"usphone": "əˈkjuːmjəleɪt",
+		"ukphone": "əˈkjuːmjəleɪt"
+	}, {
+		"name": "accusation",
+		"trans": ["n. 控告，指责，谴责；（尚未证实的被控告的）罪名，罪状 "],
+		"usphone": "ˌækjuˈzeɪʃn",
+		"ukphone": "ˌækjuˈzeɪʃn"
+	}, {
+		"name": "accord",
+		"trans": ["n. 协议，条约；符合，一致 v. 使受到，给予（某种待遇）；（与……）一致，符合 "],
+		"usphone": "əˈkɔːrd",
+		"ukphone": "əˈkɔːd"
+	}, {
+		"name": "accelerate",
+		"trans": ["v. （使）加快，促进；（车辆或驾驶者）加速 "],
+		"usphone": "əkˈseləreɪt",
+		"ukphone": "əkˈseləreɪt"
+	}, {
+		"name": "accompany",
+		"trans": ["v. 陪伴，陪同；伴随，与……一起发生；为……伴奏（或伴唱）；附带，补充 "],
+		"usphone": "əˈkʌmpəni",
+		"ukphone": "əˈkʌmpəni"
+	}, {
+		"name": "attempt",
+		"trans": ["v. 努力，尝试 n. 试图，努力；企图杀害；（运动员创造记录的）尝试，冲击 "],
+		"usphone": "əˈtempt",
+		"ukphone": "əˈtempt"
+	}, {
+		"name": "attorney",
+		"trans": ["n. 律师；代理人 "],
+		"usphone": "əˈtɜːrni",
+		"ukphone": "əˈtɜːni"
+	}, {
+		"name": "arrange",
+		"trans": ["v. 安排，筹备；整理，布置，排列；改编；商定 "],
+		"usphone": "əˈreɪndʒ",
+		"ukphone": "əˈreɪndʒ"
+	}, {
+		"name": "assess",
+		"trans": ["v. 评价，评定；估价，估计；征税，处以罚金 "],
+		"usphone": "əˈses",
+		"ukphone": "əˈses"
+	}, {
+		"name": "assumption",
+		"trans": ["n. 假定，假设；取得，承担 "],
+		"usphone": "əˈsʌmpʃn",
+		"ukphone": "əˈsʌmpʃn"
+	}, {
+		"name": "absorb",
+		"trans": ["v. 吸收；使并入，纳入；同化，汲取；消减，缓冲（外力、震动等）；理解，掌握（信息）；使全神贯注，使专心；承受（变革、影响等），承担（费用等）；花掉（大量金钱），耗费 "],
+		"usphone": "əbˈzɔːrb; əbˈsɔːrb",
+		"ukphone": "əbˈzɔːb; əbˈsɔːb"
+	}, {
+		"name": "absent",
+		"trans": ["adj. 缺勤的，缺席的；不存在的，缺乏的；心不在焉的，出神的；不与子女一起住的 prep. <美，正式>缺乏，没有 v. 缺席，离开 "],
+		"usphone": "ˈæbsənt",
+		"ukphone": "ˈæbsənt"
+	}, {
+		"name": "absence",
+		"trans": ["n. 缺席，缺勤，不在；缺乏，没有；缺席期间，休假期间；不注意 "],
+		"usphone": "ˈæbsəns",
+		"ukphone": "ˈæbsəns"
+	}, {
+		"name": "absorption",
+		"trans": ["n. (液体、气体等的)吸收；吸纳，同化；专注，着迷；（液体、气体等的）吸收 "],
+		"usphone": "əbˈzɔːrpʃnˌəbˈsɔːrpʃn",
+		"ukphone": "əbˈzɔːpʃn; əbˈsɔːpʃn"
+	}, {
+		"name": "admire",
+		"trans": ["v. 钦佩，仰慕；欣赏，观赏 "],
+		"usphone": "ədˈmaɪər",
+		"ukphone": "ədˈmaɪə(r)"
+	}, {
+		"name": "adaptation",
+		"trans": ["n. 改编本，改写本；适应，改变；适应（性），适应力；适应性变化 "],
+		"usphone": "ˌædæpˈteɪʃn",
+		"ukphone": "ˌædæpˈteɪʃn"
+	}, {
+		"name": "annoy",
+		"trans": ["v. 使恼怒，使烦恼；打扰，骚扰；<古>侵扰 "],
+		"usphone": "əˈnɔɪ",
+		"ukphone": "əˈnɔɪ"
 	}
 ]

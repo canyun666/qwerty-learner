@@ -13,7 +13,7 @@ export type Dictionary = {
  */
 export const dictionaries: Dictionary[] = [
   { id: 'xdf', name: '新东方四级', description: '新东方四级1-10', category: '自创词典', url: './dicts/xindongfang.json', length: 691 },
-  { id: 'shanguo', name: '四级闪过', description: '四级词汇闪过', category: '自创词典', url: './dicts/shanguo.json', length: 833 },
+  { id: 'shanguo', name: '四级闪过', description: '四级词汇闪过', category: '自创词典', url: './dicts/shanguo.json', length: 959 },
   { id: 'cet4', name: 'CET-4', description: '大学英语四级词库', category: '英语学习', url: '', length: 2607 },
   { id: 'cet6', name: 'CET-6', description: '大学英语六级词库', category: '英语学习', url: './dicts/CET6_T.json', length: 2345 },
   { id: 'gmat', name: 'GMAT', description: 'GMAT 词库', category: '英语学习', url: './dicts/GMAT_3_T.json', length: 3047 },
